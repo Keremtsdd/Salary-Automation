@@ -11,7 +11,7 @@ Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Gir
 
 🔹 Form verilerini işleyip ekrana yansıtma pratiği yapmak
 
-🚀 Özellikler
+✦ Özellikler
 
 ➝ Çalışan ismi ve maaş bilgisi girişi
 
@@ -23,11 +23,11 @@ Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Gir
 
 🛠 Kullanılan Teknolojiler
 
-🔹 React (useState Hook)
+☑ React (useState Hook)
 
-🔹 JavaScript (ES6+)
+☑ JavaScript (ES6+)
 
-🔹 CSS / Tailwind 
+☑ CSS / Tailwind 
 
 ⚙️ Kurulum ve Çalıştırma
 
