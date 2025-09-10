@@ -23,6 +23,8 @@ Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Gir
 
 ➝ Basit ve anlaşılır kullanıcı arayüzü
 
+---
+
 ### 🛠 Kullanılan Teknolojiler
 
 ☑ React (useState Hook)
@@ -30,6 +32,8 @@ Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Gir
 ☑ JavaScript (ES6+)
 
 ☑ CSS / Tailwind 
+
+---
 
 ⚙️ Kurulum ve Çalıştırma
 
