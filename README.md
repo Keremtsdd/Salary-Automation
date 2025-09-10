@@ -1,20 +1,47 @@
-# 💼 Maaş Otomasyonu
+💼 Maaş Otomasyonu
 
-Basit bir **maaş otomasyon uygulaması**. Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Veriler React **useState hook** ile yönetilir ve ekrana yansıtılır.  
+Bu proje, React state hook kullanımı üzerine geliştirilmiş basit bir maaş otomasyonudur.
+Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Girilen veriler aynı sayfada state üzerinden yönetilir ve ekrana yansıtılır.
 
----
+🎯 Amaç
 
-## 1. Prerequisites
+React’te useState hook kullanımını pekiştirmek
 
-Ensure you have the following installed on your system:
+Verilerin state içerisinde yönetilmesi mantığını öğrenmek
 
-- [Node.js](https://nodejs.org/) (v14 or later)  
-- [npm](https://www.npmjs.com/)  
+Form verilerini işleyip ekrana yansıtma pratiği yapmak
 
----
+🚀 Özellikler
 
-## 2. Clone the Repository
+Çalışan ismi ve maaş bilgisi girişi
+
+Girilen verilerin state üzerinde tutulması
+
+Liste halinde ekrana yansıtma
+
+Basit ve anlaşılır kullanıcı arayüzü
+
+🛠 Kullanılan Teknolojiler
+
+React (useState Hook)
+
+JavaScript (ES6+)
+
+CSS / Tailwind (opsiyonel)
+
+⚙️ Kurulum ve Çalıştırma
+
+Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
+# Repoyu klonlayın
 git clone https://github.com/kullaniciAdin/maas-otomasyonu.git
+
+# Proje dizinine girin
 cd maas-otomasyonu
+
+# Gerekli bağımlılıkları yükleyin
+npm install
+
+# Projeyi çalıştırın
+npm start
