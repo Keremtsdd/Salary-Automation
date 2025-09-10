@@ -38,10 +38,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 git clone https://github.com/Keremtsdd/Salary-Automation.git
 ```
 ```bash
-# Proje dizinine girin
-cd maas-otomasyonu
-```
-```bash
 # Gerekli bağımlılıkları yükleyin
 npm install
 ```
