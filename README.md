@@ -37,11 +37,14 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 # Repoyu klonlayın
 git clone https://github.com/kullaniciAdin/maas-otomasyonu.git
 
+```bash
 # Proje dizinine girin
 cd maas-otomasyonu
 
+```bash
 # Gerekli bağımlılıkları yükleyin
 npm install
 
+```bash
 # Projeyi çalıştırın
 npm start
