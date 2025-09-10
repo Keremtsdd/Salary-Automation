@@ -35,7 +35,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
 # Repoyu klonlayın
-git clone https://github.com/kullaniciAdin/maas-otomasyonu.git
+git clone https://github.com/Keremtsdd/Salary-Automation.git
 ```
 ```bash
 # Proje dizinine girin
