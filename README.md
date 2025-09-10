@@ -5,7 +5,7 @@ Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Gir
 
 ✦ Amaç
 
-🔹 React’te useState hook kullanımını pekiştirmek
+🔹 React’te hook kullanımını pekiştirmek
 
 🔹 Verilerin state içerisinde yönetilmesi mantığını öğrenmek
 
