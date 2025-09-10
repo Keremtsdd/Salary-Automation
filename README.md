@@ -11,6 +11,8 @@ Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Gir
 
 🔹 Form verilerini işleyip ekrana yansıtma pratiği yapmak
 
+---
+
 ### ✦ Özellikler
 
 ➝ Çalışan ismi ve maaş bilgisi girişi
