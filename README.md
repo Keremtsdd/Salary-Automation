@@ -3,7 +3,7 @@
 🔹 Bu proje, React state hook kullanımı üzerine geliştirilmiş basit bir maaş otomasyonudur.
 Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Girilen veriler aynı sayfada state üzerinden yönetilir ve ekrana yansıtılır.
 
-✦ Amaç
+### ✦ Amaç
 
 🔹 React’te hook kullanımını pekiştirmek
 
@@ -11,7 +11,7 @@ Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Gir
 
 🔹 Form verilerini işleyip ekrana yansıtma pratiği yapmak
 
-✦ Özellikler
+### ✦ Özellikler
 
 ➝ Çalışan ismi ve maaş bilgisi girişi
 
@@ -21,7 +21,7 @@ Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Gir
 
 ➝ Basit ve anlaşılır kullanıcı arayüzü
 
-🛠 Kullanılan Teknolojiler
+### 🛠 Kullanılan Teknolojiler
 
 ☑ React (useState Hook)
 
@@ -31,7 +31,7 @@ Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Gir
 
 ⚙️ Kurulum ve Çalıştırma
 
-Projeyi kendi bilgisayarınızda çalıştırmak için:
+### Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
 # Repoyu klonlayın
