@@ -1,9 +1,9 @@
-💼 Maaş Otomasyonu
+💻 Maaş Otomasyonu
 
 🔹 Bu proje, React state hook kullanımı üzerine geliştirilmiş basit bir maaş otomasyonudur.
 Kullanıcı, çalışan ismi ve maaş bilgisini girerek listeye ekleyebilir. Girilen veriler aynı sayfada state üzerinden yönetilir ve ekrana yansıtılır.
 
-🎯 Amaç
+✦ Amaç
 
 🔹 React’te useState hook kullanımını pekiştirmek
 
